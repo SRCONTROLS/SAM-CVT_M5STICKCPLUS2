@@ -1,3 +1,5 @@
+// Created with DeepSeek AI and ChatGPT AI so I thought it should be open source.
+
 #include <M5StickCPlus2.h> // Defines Hardware
 #include <WiFi.h> // Wifi Access point
 #include <HardwareSerial.h>
